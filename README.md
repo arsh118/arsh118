@@ -1,51 +1,39 @@
-<h1 align="center">Hi there, I'm Arsh! 👋</h1>
-<h3 align="center">A Passionate Tech Enthusiast | BCA Student | Full Stack Developer</h3>
+# Hi, I'm Arsh! 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arsh123&label=Profile%20Views&color=0e75b6&style=flat" alt="Arsh123" />
-</p>
+![Arsh's Banner](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 
----
+Welcome to my GitHub profile! I'm a passionate tech enthusiast and a first-year BCA student at Maharaja Surajmal Institute , New Delhi. I enjoy building projects, learning new technologies, and sharing my knowledge with others.
 
-### 👨‍💻 About Me:
-- 🎓 First-Year **BCA Student** at **MSI, New Delhi**
-- 🔭 Working on **Web Development & Competitive Programming**
-- 🌱 Learning **C, JavaScript, and Full-Stack Development**
-- ⚡ Fun Fact: **I love coding memes & exploring new tech!**
+## 🔧 Technologies & Tools
 
----
+- 🌐 **Web Development**: HTML, CSS, JavaScript, Bootstrap, React
+- 🖥 **Programming**: C, C++
+- 💻 **Other**: Git, GitHub, Node.js, MySQL
 
-### 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/arsh-ahmad1))
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/yourprofile)]([https://instagram.com/yourprofile](https://www.instagram.com/a_audacious_z__?igsh=MzJ2eG9md3R0bWpr))
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourprofile)]([https://twitter.com/yourprofile](https://x.com/arsh118_?t=g62eLQnndVpRJkrdyR9KUA&s=09))
+## 🚀 Projects
 
----
+Here are a few of my recent projects:
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Arsh123&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arsh123&theme=radical" />
-</p>
+- **Project Name**: A brief description of what it does and the tech stack used.
+- **Project Name**: A brief description of what it does and the tech stack used.
+- **Project Name**: A brief description of what it does and the tech stack used.
 
----
+Feel free to explore my repositories!
 
-### 🚀 Tech Stack:
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" width="80" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" width="120" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" width="100" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="160" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" width="160" />
-</p>
+## 📈 GitHub Stats
 
----
+![Arsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-### 🏆 Achievements:
-- ✅ Created multiple projects using **C, HTML, CSS, Bootstrap**
-- ✅ Working on **open-source** contributions
-- ✅ Active on **GitHub, solving coding challenges**
-  
----
-  
-⭐ **Star my repositories and let’s connect!** 🚀
+## 🌱 I'm currently learning
+
+- 📘 Advanced C programming concepts
+- 📱 Mobile App Development
+- 📊 Data Structures & Algorithms
+
+## 🤝 Let's Connect!
+
+- LinkedIn: [Arsh's LinkedIn](https://www.linkedin.com/in/arsh-ahmad1)
+- Instagram: [@a_audacious_z](https://www.instagram.com/a_audacious_z__igsh=MzJ2eG9md3R0bWpr)
+- Twitter: [@arsh118_](https://x.com/arsh118_?t=g62eLQnndVpRJkrdyR9KUA&s=09)
+
+Feel free to reach out for collaborations, questions, or just to chat about tech!
